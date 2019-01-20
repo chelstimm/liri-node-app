@@ -35,7 +35,6 @@ var SpotifyAPI = function (song) {
             var songs = data.tracks.items;
             for (var i = 0; i < songs.length; i++) {
                 console.log("\n-------------------------------------------------\n" +
-                    [i] +
                     "\nArtist name: \n" + songs[i].artists[0].name +
                     "\nSong title: \n" + songs[i].name +
                     "\nTrack number: \n" + songs[i].track_number +
