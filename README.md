@@ -17,15 +17,17 @@ This app uses different Node packages to retrieve the data.
 
 You may use one of the following commands to retreive the data you're wanting:
 
-   * node liri.js concert-this <artist/band name here>
+   * node liri.js concert-this <artist/band name here> *
 
-   * node liri.js spotify-this-song <song name here>
+   * node liri.js spotify-this-song <song name here> *
 
-   * node liri.js movie-this <movie name here>
+   * node liri.js movie-this <movie name here> *
 
-   * node liri.js do-what-it-says
+   * node liri.js do-what-it-says *
 
 These commands will output the following information to your terminal/bash window.
+
+![](/assets/images/Christmas%20Trivia.png)
 
 Have fun searching!
 
